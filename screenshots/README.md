@@ -1,1 +1,0 @@
-Evidence screenshots for the NovaPay AWS Security Assessment.
